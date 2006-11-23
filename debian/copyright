@@ -1,0 +1,38 @@
+This package was debianized by Kel Modderman <kelrin@tpg.com.au> on
+Mon, 31 Jul 2006 19:49:14 +0000.
+
+It was downloaded from:
+	http://dl.kanotixguide.org/artwork/
+
+Upstream Author and Copyright details:
+	Copyright 2006
+	Sebastian Sariego B. <segfault@kde.cl>
+	Steven Robinson <stevenjrobinson@yahoo.com>
+
+Based on previous work:
+	Copyright 2004, Serban Albu <serban_albu@yahoo.com>
+	License: GPL
+	http://www.kde-look.org/content/show.php?content=12387
+
+License:
+
+   This package is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+
+   This package is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this package; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+On Debian systems, the complete text of the GNU General
+Public License can be found in `/usr/share/common-licenses/GPL'.
+
+The Debian packaging is (C) 2006, Kel Modderman <kelrin@tpg.com.au> and
+is licensed under the GPL, see above.
+
