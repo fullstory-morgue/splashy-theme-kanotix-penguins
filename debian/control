@@ -1,7 +1,7 @@
 Source: splashy-theme-kanotix-penguins
 Section: graphics
 Priority: optional
-Maintainer: Kel Modderman <kelrin@tpg.com.au>
+Maintainer: Kel Modderman <kelmo@kanotixguide.org>
 Build-Depends: cdbs, debhelper (>= 5.0.0)
 Standards-Version: 3.7.2
 
@@ -14,6 +14,18 @@ Description: gothic penguin splashy theme for Kanotix 32bit edition
  .
  This package provides a gothic penguin splashy theme for the
  Kanotix32 desktop.
+
+Package: splashy-theme-kanotix-penguins-de
+Architecture: all
+Depends: splashy
+Description: gothic penguin splashy theme for Kanotix 32bit edition
+ Splashy is a boot splash program that paints graphic images directly
+ to framebuffers using libdirectfb.
+ .
+ This package provides a gothic penguin splashy theme for the
+ Kanotix32 desktop.
+ .
+ This theme's text has been translated to the German language.
 
 Package: splashy-theme-kanotix64-penguins
 Architecture: all

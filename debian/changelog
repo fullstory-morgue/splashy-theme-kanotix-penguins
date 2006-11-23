@@ -2,8 +2,10 @@ splashy-theme-kanotix-penguins (1.2) unstable; urgency=low
 
   * Replace error.jpg images with updated ones from Cathbard. There was a
     typo.
+  * Add german theme.
+  * Change Maintainer email address.
 
- -- Kel Modderman <kelmo@kanotixguide.org>  Fri, 24 Nov 2006 07:39:56 +1000
+ -- Kel Modderman <kelmo@kanotixguide.org>  Fri, 24 Nov 2006 08:12:19 +1000
 
 splashy-theme-kanotix-penguins (1.1) unstable; urgency=low
 
